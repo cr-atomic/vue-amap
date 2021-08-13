@@ -18,7 +18,8 @@ npm install -S vue-amap
 ```
 
 ## 文档
-[https://elemefe.github.io/vue-amap](https://elemefe.github.io/vue-amap)
+fork 下来解决原本的文档代码不显示问题
+[https://cr-atomic.github.io/vue-amap/#/](https://cr-atomic.github.io/vue-amap/#/)
 
 
 ## 快速上手
