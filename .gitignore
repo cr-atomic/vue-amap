@@ -8,6 +8,5 @@ example
 dist
 .vscode
 .tags*
-/docs
 dist
 coverage
